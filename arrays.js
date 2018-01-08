@@ -27,3 +27,10 @@ var tomatoSauceIngredients = [
   'basil',
   'oregano'
   ]
+  
+var chocolateBars = [
+  'snickers',
+  'hundred grand',
+  'kitkat',
+  'skittles'
+  ]
