@@ -44,3 +44,8 @@ function destructivelyAddElementToBeginningOfArray(array, element){
   array.unshift(element)
   return array
 }
+
+function addElementToEndOfArray(array, element) {
+  new_array = [...array, element]
+  return new_array
+}
