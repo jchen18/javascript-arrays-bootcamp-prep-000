@@ -50,7 +50,7 @@ function addElementToEndOfArray(array, element) {
   return new_array
 }
 
-function addElementToBeginningOfArray(array, element){
+function destructivelyAddElementToEndOfArray(array, element){
   array.push(element)
   return array
 }
